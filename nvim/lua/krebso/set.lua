@@ -21,6 +21,8 @@ vim.opt.undofile = true
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
 
+vim.opt.winblend = 0
+vim.opt.pumblend = 0
 vim.opt.termguicolors = true
 
 vim.opt.updatetime = 50
@@ -29,3 +31,7 @@ vim.opt.colorcolumn = "120"
 
 vim.opt.splitbelow = true
 vim.opt.splitright = true
+
+vim.opt.background = "dark"
+
+vim.opt.cursorline = true
