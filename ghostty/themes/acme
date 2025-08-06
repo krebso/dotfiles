@@ -1,0 +1,29 @@
+# Ghostty Acme Colorscheme
+
+# Base colors (0-7)
+palette = 0=#424242
+palette = 1=#b85c57
+palette = 2=#57864e
+palette = 3=#8f7634
+palette = 4=#2a8dc5
+palette = 5=#8888c7
+palette = 6=#6aa7a8
+palette = 7=#999957
+
+# Bright colors (8-15)
+palette = 8=#b7b19c
+palette = 9=#f2acaa
+palette = 10=#98ce8f
+palette = 11=#b7b19c
+palette = 12=#a6dcf8
+palette = 13=#d0d0f7
+palette = 14=#b0eced
+palette = 15=#ffffec
+
+# UI elements
+background = #ffffec
+foreground = #424242
+cursor-color = #030093
+cursor-text = #ffffec
+selection-background = #eeeea7
+selection-foreground = #424242

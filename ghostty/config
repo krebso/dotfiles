@@ -1,0 +1,20 @@
+# colorscheme
+theme = Kanagawa Dragon
+
+# shell
+shell-integration = fish
+shell-integration-features = no-cursor
+
+# cursor style
+cursor-style = block
+cursor-style-blink = false
+
+# window style
+window-padding-x = 20
+window-padding-y = 20
+window-decoration = false
+background-opacity = 0.9
+
+# font
+font-family = SF Mono
+font-size=14
